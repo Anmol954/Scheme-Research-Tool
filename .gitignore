@@ -1,0 +1,14 @@
+# Ignore virtual environment
+haq/
+.env/
+__pycache__/
+*.pyc
+*.pkl
+.config
+*.pdf
+temp_uploaded_*
+uploaded_temp.pdf
+
+# OS files
+.DS_Store
+Thumbs.db

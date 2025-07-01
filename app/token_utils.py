@@ -1,5 +1,3 @@
-# app/token_utils.py
-
 import tiktoken
 
 def count_tokens(text, model="gpt-3.5-turbo"):
