@@ -1,0 +1,12 @@
+openai
+streamlit
+langchain
+faiss-cpu
+unstructured
+requests
+python-dotenv
+langchain-community
+pdfminer.six
+unstructured-inference
+pdf2image
+langchain-openai
